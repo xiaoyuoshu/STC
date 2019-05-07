@@ -79,7 +79,7 @@ layui.use(['element','table','layer'], function(){
                 , {field: 'Cname', title: '课程名'}
                 , {field: 'Tname', title: '任课教师'}
                 , {field: 'Ccredit', title: '学分'}
-                , {field: 'Grade', edit: 'text', title: '分数'}
+                , {field: 'Grade', title: '分数'}
             ]]
             , page: true
         });
